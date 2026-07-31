@@ -1,0 +1,219 @@
+[
+  {
+    "name": "AppShots",
+    "path": "/Users/moshe/Apps/AppShots",
+    "scheme": "AppShots",
+    "bundle": "com.DNZ.appshots",
+    "log": "/Users/moshe/Apps/Logs/AppShots.log"
+  },
+  {
+    "name": "AquaJoePool",
+    "path": "/Users/moshe/Apps/AquaJoePool",
+    "scheme": "AquaJoePool",
+    "bundle": "com.aquajoe.pool",
+    "log": "/Users/moshe/Apps/Logs/AquaJoePool.log"
+  },
+  {
+    "name": "Bluelink",
+    "path": "/Users/moshe/Apps/Bluelink",
+    "scheme": "Bluelink",
+    "bundle": "com.dnz.bluelink",
+    "log": "/Users/moshe/Apps/Logs/Bluelink.log"
+  },
+  {
+    "name": "Bus Tracker",
+    "path": "/Users/moshe/Apps/Bus Tracker",
+    "scheme": "Bus Tracker",
+    "bundle": "com.DNZ.bustracker",
+    "log": "/Users/moshe/Apps/Logs/Bus Tracker.log"
+  },
+  {
+    "name": "CAR AND DRIVER",
+    "path": "/Users/moshe/Apps/CAR AND DRIVER",
+    "scheme": "CAR AND DRIVER",
+    "bundle": "com.DNZ.caranddriver",
+    "log": "/Users/moshe/Apps/CAR AND DRIVER/car and driver log.txt"
+  },
+  {
+    "name": "COBY Lyrics Speaker",
+    "path": "/Users/moshe/Apps/COBY Lyrics Speaker",
+    "scheme": "COBY Lyrics Speaker",
+    "bundle": "com.DNZ.cobylyricsspeaker",
+    "log": "/Users/moshe/Apps/COBY Lyrics Speaker/cobylyricsspeaker_log.txt"
+  },
+  {
+    "name": "COBY Smart",
+    "path": "/Users/moshe/Apps/COBY Smart",
+    "scheme": "COBY Smart",
+    "bundle": "com.coby.smart",
+    "log": "/Users/moshe/Apps/COBY Smart/COBY Smart log.txt"
+  },
+  {
+    "name": "Cards",
+    "path": "/Users/moshe/Apps/Cards",
+    "scheme": "Cards",
+    "bundle": "com.DNZ.cards",
+    "log": "/Users/moshe/Apps/Logs/Cards.log"
+  },
+  {
+    "name": "Finances",
+    "path": "/Users/moshe/Apps/Finances",
+    "scheme": "Finances",
+    "bundle": "com.DNZ.finances",
+    "log": "/Users/moshe/Apps/Logs/Finances.log"
+  },
+  {
+    "name": "GPCamApp",
+    "path": "/Users/moshe/Apps/GPCamApp",
+    "scheme": "GPCamApp",
+    "bundle": "com.example.GPCamApp",
+    "log": "/Users/moshe/Apps/Logs/GPCamApp.log"
+  },
+  {
+    "name": "Grade Mailer",
+    "path": "/Users/moshe/Apps/Grade Mailer",
+    "scheme": "Grade Mailer",
+    "bundle": "com.DNZ.grademailer",
+    "log": "/Users/moshe/Apps/Logs/Grade Mailer.log"
+  },
+  {
+    "name": "GroupSnap",
+    "path": "/Users/moshe/Apps/GroupSnap",
+    "scheme": "GroupSnap",
+    "bundle": "com.DNZ.groupsnap",
+    "log": "/Users/moshe/Apps/Logs/GroupSnap.log"
+  },
+  {
+    "name": "HomeKit CLI",
+    "path": "/Users/moshe/Apps/HomeKit CLI",
+    "scheme": "HomeKit CLI",
+    "bundle": "DNZ.HomeKit-CLI",
+    "log": "/Users/moshe/Apps/Logs/HomeKit CLI.log"
+  },
+  {
+    "name": "Intercom",
+    "path": "/Users/moshe/Apps/Intercom",
+    "scheme": "Intercom",
+    "bundle": "com.moshe.Intercom",
+    "log": "/Users/moshe/Apps/Intercom/intercom.txt"
+  },
+  {
+    "name": "Jukebox",
+    "path": "/Users/moshe/Apps/Jukebox",
+    "scheme": "Jukebox",
+    "bundle": "com.DNZ.jukebox",
+    "log": "/Users/moshe/Apps/Jukebox/.claude/jukebox_log.txt"
+  },
+  {
+    "name": "Kids Games",
+    "path": "/Users/moshe/Apps/Kids Games",
+    "scheme": "Kids Games",
+    "bundle": "com.DNZ.kids-games",
+    "log": "/Users/moshe/Apps/Logs/Kids Games.log"
+  },
+  {
+    "name": "LeGrand Gems",
+    "path": "/Users/moshe/Apps/LeGrand Gems",
+    "scheme": "LeGrandGems",
+    "bundle": "com.lgg.legrandgems",
+    "log": "/Users/moshe/Apps/Logs/LeGrand Gems.log"
+  },
+  {
+    "name": "Media Check",
+    "path": "/Users/moshe/Apps/Media Check",
+    "scheme": "Media Check",
+    "bundle": "com.DNZ.mediacheck",
+    "log": "/Users/moshe/Apps/Logs/Media Check.log"
+  },
+  {
+    "name": "Mi Espanol",
+    "path": "/Users/moshe/Apps/Mi Espanol",
+    "scheme": "MiEspanol",
+    "bundle": "com.DNZ.miespanol",
+    "log": "/Users/moshe/Apps/Logs/Mi Espanol.log"
+  },
+  {
+    "name": "Pixel",
+    "path": "/Users/moshe/Apps/Pixel/ios",
+    "scheme": "Pixel",
+    "bundle": "com.DNZ.pixel",
+    "log": "/Users/moshe/Apps/Pixel/ios/pixel_log.txt"
+  },
+  {
+    "name": "Pollen",
+    "path": "/Users/moshe/Apps/Pollen",
+    "scheme": "Pollen",
+    "bundle": "com.DNZ.pollen",
+    "log": "/Users/moshe/Apps/Logs/Pollen.log"
+  },
+  {
+    "name": "Remote",
+    "path": "/Users/moshe/Apps/Remote",
+    "scheme": "Remote",
+    "bundle": "com.DNZ.remote",
+    "log": "/Users/moshe/Apps/Logs/Remote.log"
+  },
+  {
+    "name": "SLIDE Connect",
+    "path": "/Users/moshe/Apps/SLIDE Connect",
+    "scheme": "SLIDE Connect",
+    "bundle": "com.DNZ.slideconnect",
+    "log": "/Users/moshe/Apps/SLIDE Connect/slideconnect.txt"
+  },
+  {
+    "name": "Screenshot Stitcher",
+    "path": "/Users/moshe/Apps/Screenshot Stitcher",
+    "scheme": "ScreenshotStitcher",
+    "bundle": "com.DNZ.ScreenshotStitcher",
+    "log": "/Users/moshe/Apps/Logs/Screenshot Stitcher.log"
+  },
+  {
+    "name": "Show Sourcing",
+    "path": "/Users/moshe/Apps/Show Sourcing",
+    "scheme": "Show Sourcing",
+    "bundle": "com.DNZ.showsourcing",
+    "log": "/Users/moshe/Apps/Show Sourcing/showsourcinglog.txt"
+  },
+  {
+    "name": "Siddur",
+    "path": "/Users/moshe/Apps/Siddur",
+    "scheme": "Siddur",
+    "bundle": "com.DNZ.siddur",
+    "log": "/Users/moshe/Apps/Logs/Siddur.log"
+  },
+  {
+    "name": "Song Maker",
+    "path": "/Users/moshe/Apps/Song Maker",
+    "scheme": "Song Maker",
+    "bundle": "com.DNZ.songmaker",
+    "log": "/Users/moshe/Apps/Logs/Song Maker.log"
+  },
+  {
+    "name": "Sports Alerts",
+    "path": "/Users/moshe/Apps/Sports Alerts",
+    "scheme": "Sports Alerts",
+    "bundle": "com.DNZ.sportsalerts",
+    "log": "/Users/moshe/Apps/Sports Alerts/sports alerts.log"
+  },
+  {
+    "name": "SwipeType",
+    "path": "/Users/moshe/Apps/SwipeType",
+    "scheme": "SwipeType",
+    "bundle": "com.DNZ.SwipeType",
+    "log": "/Users/moshe/Apps/Logs/SwipeType.log"
+  },
+  {
+    "name": "Tiny Print",
+    "path": "/Users/moshe/Apps/Tiny Print",
+    "scheme": "Tiny Print",
+    "bundle": "com.DNZ.tinyprint",
+    "log": "/Users/moshe/Apps/Logs/Tiny Print.log"
+  },
+  {
+    "name": "Wordbox",
+    "path": "/Users/moshe/Apps/World of Words",
+    "scheme": "World of Words",
+    "bundle": "com.DNZ.worldofwords",
+    "log": "/Users/moshe/Apps/Logs/World of Words.log"
+  }
+]

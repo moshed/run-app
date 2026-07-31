@@ -1,0 +1,11 @@
+build/
+build.noindex/
+DerivedData/
+.build/
+*.app/
+*.dmg
+*.zip
+*.xcarchive/
+xcuserdata/
+.DS_Store
+harness/
